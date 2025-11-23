@@ -1,4 +1,3 @@
-// NOME: JOSEPH ANTONY DOS SANTOS LEITE
 
 
 #include <stdio.h>
